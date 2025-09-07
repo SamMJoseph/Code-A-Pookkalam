@@ -1,35 +1,28 @@
-
 # Code a Pookkalam 🎯
-<img width="2048" height="1024" alt="image" src="https://github.com/user-attachments/assets/b30d4cbf-46ff-4bb1-ab85-def11e5896ab" />
-
+<img width="2048" height="1024" alt="Pookkalam Preview" src="https://github.com/user-attachments/assets/b30d4cbf-46ff-4bb1-ab85-def11e5896ab" />
 
 ## Basic Details
-### Team Name: [Name]
-
-
-### Team Members
-- Team Lead: [Name] - [College]
+### Developer: Sam  
+### Team: Solo Project  
 
 ### Project Description
-[2-3 lines about what your project does]
+A digital representation of a traditional Onam Pookkalam (floral carpet) built using pure HTML and CSS.  
+The design features vibrant concentric circles to recreate the festive floral art of Onam. 🌸✨  
 
+---
 
 ## Technical Details
 ### Technologies/Components Used
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- **Languages:** HTML, CSS  
+- **Frameworks:** None  
+- **Libraries:** None  
+- **Tools:** Browser, VS Code  
 
+---
 
+## Project Documentation
 
-### Project Documentation
-
-
-# Screenshots 
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-
-### Got Anything to share?
-- [Write here]
+### How to Run
+1. Clone this repository:  
+   ```bash
+   git clone https://github.com/your-username/pookkalam.git
