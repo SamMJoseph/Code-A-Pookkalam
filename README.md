@@ -21,6 +21,10 @@ The design features vibrant concentric circles to recreate the festive floral ar
 ---
 
 ## Project Documentation
+# Screenshots 
+![Screenshot1](Add screenshot 1 here with proper name)
+*Add caption explaining what this shows*
+
 
 ### How to Run
 1. Clone this repository:  
