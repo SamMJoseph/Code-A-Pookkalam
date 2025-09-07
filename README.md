@@ -22,9 +22,8 @@ The design features vibrant concentric circles to recreate the festive floral ar
 
 ## Project Documentation
 # Screenshots 
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
+![image alt](https://github.com/SamMJoseph/Code-A-Pookkalam/blob/39d605da13810f45d73200ddc77efc58bc4ef9cb/Screenshot%202025-09-07%20092403.png)
+The following screenshot shows the final output of my Pookkalam design created using HTML and CSS.   
 
 ### How to Run
 1. Clone this repository:  
